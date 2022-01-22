@@ -1,0 +1,24 @@
+.producto {
+    background-color: brown;
+    border: white solid;
+    width: 360px;
+    height: 450px;
+    font-size: 50px;
+}
+p {
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    justify-content: center;
+}
+input {
+    width: 60px;
+}
+.btn {
+    width: 80px;
+    font-size: 14px;
+}
+img {
+    width: 250px;
+    height: 440px;
+}
